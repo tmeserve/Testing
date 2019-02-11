@@ -1,12 +1,12 @@
 h2 {
-    color: #212121;
+    color: #0b7dda;
     size: 15px;
     font-style: italic;
 }
 
 h3{
     border: #BDBDBD;
-    color: #212121;
+    color: #0b7dda;
 }
 
 a {
@@ -35,4 +35,8 @@ ul {
 
 .header, body {
     font-family: "Lato", sans-serif;
+}
+
+body {
+    background-color: #212121;
 }
