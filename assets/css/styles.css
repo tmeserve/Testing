@@ -1,20 +1,14 @@
 h2 {
-    color: #0b7dda;
     size: 15px;
     font-style: italic;
 }
 
-h3{
-    border: #BDBDBD;
-    color: #0b7dda;
+h2, h3 {
+    color: #009688;
 }
 
-a {
-    color: #999999;
-}
-
-ul {
-    color: #808080;
+ul, a {
+    color: #546d78;
 }
 
 .header {
@@ -25,12 +19,12 @@ ul {
 .header, .para {
     width: 100%;
     text-align: center;
-    background-color: #0d4072;
+    background-color: #00665c;
 }
 
 .para {
     font-size: 18px;
-    color: #9E9E9E;
+    color: #a5b8c0;
 }
 
 .header, body {
