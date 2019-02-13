@@ -4,7 +4,7 @@ h2 {
 }
 
 h2, h3 {
-    color: #009688;
+    color: #0b7dda;
 }
 
 ul, a {
@@ -19,12 +19,12 @@ ul, a {
 .header, .para {
     width: 100%;
     text-align: center;
-    background-color: #00665c;
+    background-color: #0d4072;
 }
 
 .para {
     font-size: 18px;
-    color: #a5b8c0;
+    color: #9E9E9E;
 }
 
 .header, body {
