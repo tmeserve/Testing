@@ -3,8 +3,8 @@ h2 {
     font-style: italic;
 }
 
-h2, h3 {
-    color: #0b7dda;
+h3, h2 {
+    color: #009688;
 }
 
 ul, a {
@@ -13,18 +13,18 @@ ul, a {
 
 .header {
     font-size: 30px;
-    color: #999999;
+    color: #FFFFFF;
 }
 
 .header, .para {
     width: 100%;
     text-align: center;
-    background-color: #0d4072;
+    background-color: #00665c;
 }
 
 .para {
     font-size: 18px;
-    color: #9E9E9E;
+    color: #a5b8c0;
 }
 
 .header, body {
